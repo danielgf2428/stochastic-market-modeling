@@ -8,7 +8,6 @@ This paper presents an applied approach to market scenario simulation using the 
 
 ## Documents
 📄 **[Read the Full Paper (PDF)](./stochastic-market-modeling.pdf)**
-*(Click to view the conference paper, including mathematical derivations and analysis)*
 
 💻 **[View Source Code (R)](./simulation_script.R)**
 
